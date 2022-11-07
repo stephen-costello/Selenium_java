@@ -7,6 +7,15 @@ import org.seleniumdemo.pageobject.SearchResultPage;
 
 import static org.junit.Assert.assertTrue;
 
+/**
+ * Project Name    : selenium-demo
+ * Developer       : Stephen Costello
+ * Version         : -
+ * Date            : 7/11/2022
+ * Time            : -
+ * Description     : Sample selenium UI test
+ **/
+
 public class SearchTest extends Base {
 
     @Test
